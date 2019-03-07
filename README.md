@@ -18,6 +18,9 @@
 
 ## 竞赛
 [GBDT、XGBOOST、LightGBM比较](https://marian5211.github.io/2018/03/12/%E3%80%90%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E3%80%91gbdt-xgboost-lightGBM%E6%AF%94%E8%BE%83/)
+
 [集成学习之Adaboost算法原理小结](https://www.cnblogs.com/pinard/p/6133937.html)
+
 [梯度提升树（GBDT）原理小结](https://www.cnblogs.com/pinard/p/6140514.html)
+
 [LightGBM相对于GBDT的优点](https://www.msra.cn/zh-cn/news/features/lightgbm-20170105)
