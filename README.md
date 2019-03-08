@@ -28,4 +28,7 @@
 ## 公式推导
 
 [LR逻辑回归的推导](https://zhuanlan.zhihu.com/p/44591359)  
-[XGBoost公式的推导](https://blog.csdn.net/yangxudong/article/details/53872141)
+
+[XGBoost公式的推导](https://blog.csdn.net/yangxudong/article/details/53872141)  
+
+[SVM公式的推导](https://www.jianshu.com/p/3531bb9dd658)  
