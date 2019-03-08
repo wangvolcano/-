@@ -24,3 +24,7 @@
 [梯度提升树（GBDT）原理小结](https://www.cnblogs.com/pinard/p/6140514.html)
 
 [LightGBM相对于GBDT的优点](https://www.msra.cn/zh-cn/news/features/lightgbm-20170105)
+
+## 公式推导
+
+[LR逻辑回归的推导](https://zhuanlan.zhihu.com/p/44591359)
