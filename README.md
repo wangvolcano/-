@@ -28,3 +28,4 @@
 ## 公式推导
 
 [LR逻辑回归的推导](https://zhuanlan.zhihu.com/p/44591359)
+[XGBoost公式的推导](https://blog.csdn.net/yangxudong/article/details/53872141)
