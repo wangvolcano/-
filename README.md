@@ -34,3 +34,7 @@
 [XGBoost公式的推导](https://blog.csdn.net/yangxudong/article/details/53872141)  
 
 [SVM公式的推导](https://www.jianshu.com/p/3531bb9dd658)  
+
+## 面试经验
+
+[为什么要把连续特征离散化](https://www.zhihu.com/question/31989952)
