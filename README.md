@@ -27,6 +27,8 @@
 
 [GBDT和RF的参数调优](https://cloud.tencent.com/developer/article/1087035)
 
+[GBDT算法流程、特征选择、特征构建和分类](https://www.cnblogs.com/ModifyRong/p/7744987.html)
+
 ## 公式推导
 
 [LR逻辑回归的推导](https://zhuanlan.zhihu.com/p/44591359)  
