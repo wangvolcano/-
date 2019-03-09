@@ -25,6 +25,8 @@
 
 [LightGBM相对于GBDT的优点](https://www.msra.cn/zh-cn/news/features/lightgbm-20170105)
 
+[GBDT和RF的参数调优](https://cloud.tencent.com/developer/article/1087035)
+
 ## 公式推导
 
 [LR逻辑回归的推导](https://zhuanlan.zhihu.com/p/44591359)  
