@@ -43,4 +43,4 @@
 
 
 ## NLP项目
-(1) [word2vec的实现](https://github.com/pakrchen/text-antispam/tree/master/word2vec) (2) [负采样个数解释](https://zhuanlan.zhihu.com/p/39684349)对于小规模数据集，负采样个数在5-20以保留更多信息，大规模数据集在2-5以加快运算速度
+(1) [word2vec的实现](https://github.com/pakrchen/text-antispam/tree/master/word2vec) (2) [负采样个数解释](https://zhuanlan.zhihu.com/p/39684349)  对于小规模数据集，负采样个数在5-20以保留更多信息，大规模数据集在2-5以加快运算速度
