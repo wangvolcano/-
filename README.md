@@ -43,4 +43,4 @@
 
 
 ## NLP项目
-[word2vec的实现](https://github.com/pakrchen/text-antispam/tree/master/word2vec)
+(1) [word2vec的实现](https://github.com/pakrchen/text-antispam/tree/master/word2vec) (2) [负采样个数解释](https://zhuanlan.zhihu.com/p/39684349)
