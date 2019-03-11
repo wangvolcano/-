@@ -40,3 +40,7 @@
 ## 面试经验
 
 [为什么要把连续特征离散化](https://www.zhihu.com/question/31989952)
+
+
+## NLP项目
+[word2vec的实现](https://github.com/pakrchen/text-antispam/tree/master/word2vec)
