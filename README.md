@@ -44,3 +44,6 @@
 
 ## NLP项目
 (1) [word2vec的实现](https://github.com/pakrchen/text-antispam/tree/master/word2vec) (2) [负采样个数解释](https://zhuanlan.zhihu.com/p/39684349) (3) [深度学习中的激活函数和梯度消失](https://www.cnblogs.com/willnote/p/6912798.html) (4) [激活函数的必要条件是什么](https://www.zhihu.com/question/67366051) 
+
+## 推荐系统深度学习
+(1)[CTR预估算法之FM, FFM, DeepFM及实践](https://blog.csdn.net/John_xyz/article/details/78933253)
