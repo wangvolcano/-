@@ -47,3 +47,6 @@
 
 ## 推荐系统深度学习
 (1)[CTR预估算法之FM, FFM, DeepFM及实践](https://blog.csdn.net/John_xyz/article/details/78933253)
+
+## 深度学习
+(1) [Softmax函数的特点与作用](https://www.zhihu.com/question/23765351)
