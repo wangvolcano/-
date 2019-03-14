@@ -16,7 +16,7 @@
 ## 损失函数
 [各种损失函数](https://www.jianshu.com/p/477a8c1cb05d)
 
-## 竞赛
+# 竞赛
 [GBDT、XGBOOST、LightGBM比较](https://marian5211.github.io/2018/03/12/%E3%80%90%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E3%80%91gbdt-xgboost-lightGBM%E6%AF%94%E8%BE%83/)
 
 [集成学习之Adaboost算法原理小结](https://www.cnblogs.com/pinard/p/6133937.html)
@@ -37,16 +37,16 @@
 
 [SVM公式的推导](https://www.jianshu.com/p/3531bb9dd658)  
 
-## 面试经验
+# 面试经验
 
 [为什么要把连续特征离散化](https://www.zhihu.com/question/31989952)
 
 
-## NLP项目
+# NLP项目
 (1) [word2vec的实现](https://github.com/pakrchen/text-antispam/tree/master/word2vec) (2) [负采样个数解释](https://zhuanlan.zhihu.com/p/39684349) (3) [深度学习中的激活函数和梯度消失](https://www.cnblogs.com/willnote/p/6912798.html) (4) [激活函数的必要条件是什么](https://www.zhihu.com/question/67366051) 
 
-## 推荐系统深度学习
+# 推荐系统深度学习
 (1)[CTR预估算法之FM, FFM, DeepFM及实践](https://blog.csdn.net/John_xyz/article/details/78933253)
 
-## 深度学习
+# 深度学习
 (1) [Softmax函数的特点与作用](https://www.zhihu.com/question/23765351)
