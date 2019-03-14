@@ -32,6 +32,7 @@
 ## 公式推导
 
 [LR逻辑回归的推导](https://zhuanlan.zhihu.com/p/44591359)  
+(1)[LR的并行化](https://blog.csdn.net/qq_32742009/article/details/81839071)
 
 [XGBoost公式的推导](https://blog.csdn.net/yangxudong/article/details/53872141)  
 
