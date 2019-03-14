@@ -47,12 +47,12 @@
 (1) [word2vec的实现](https://github.com/pakrchen/text-antispam/tree/master/word2vec) (2) [负采样个数解释](https://zhuanlan.zhihu.com/p/39684349) (3) [深度学习中的激活函数和梯度消失](https://www.cnblogs.com/willnote/p/6912798.html) (4) [激活函数的必要条件是什么](https://www.zhihu.com/question/67366051) 
 
 # 推荐系统深度学习
-(1)[CTR预估算法之FM, FFM, DeepFM及实践](https://blog.csdn.net/John_xyz/article/details/78933253)
-(2)[Facebook的CTR算法，GBDT+LR的源头](https://zhuanlan.zhihu.com/p/57987311)
-(3)[阿里深度兴趣网络DIN 推荐系统的注意力机制](https://zhuanlan.zhihu.com/p/51623339)
-(4)[YouTube深度推荐系统DNN](https://zhuanlan.zhihu.com/p/52169807) [YouTube深度推荐系统的细节](https://zhuanlan.zhihu.com/p/52504407)
-(5)[Embbeding从word2vec到item2vec](https://zhuanlan.zhihu.com/p/53194407)
-(6)[Wide & Deep Learning](https://blog.csdn.net/google19890102/article/details/78171283)
+(1)[CTR预估算法之FM, FFM, DeepFM及实践](https://blog.csdn.net/John_xyz/article/details/78933253)  
+(2)[Facebook的CTR算法，GBDT+LR的源头](https://zhuanlan.zhihu.com/p/57987311)  
+(3)[阿里深度兴趣网络DIN 推荐系统的注意力机制](https://zhuanlan.zhihu.com/p/51623339)  
+(4)[YouTube深度推荐系统DNN](https://zhuanlan.zhihu.com/p/52169807) [YouTube深度推荐系统的细节](https://zhuanlan.zhihu.com/p/52504407)  
+(5)[Embbeding从word2vec到item2vec](https://zhuanlan.zhihu.com/p/53194407)  
+(6)[Wide & Deep Learning](https://blog.csdn.net/google19890102/article/details/78171283)  
 
 # 深度学习
 (1) [Softmax函数的特点与作用](https://www.zhihu.com/question/23765351)
