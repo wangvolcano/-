@@ -48,10 +48,15 @@
 
 # 推荐系统深度学习
 (1)[CTR预估算法之FM, FFM, DeepFM及实践](https://blog.csdn.net/John_xyz/article/details/78933253)  
+
 (2)[Facebook的CTR算法，GBDT+LR的源头](https://zhuanlan.zhihu.com/p/57987311)  
+
 (3)[阿里深度兴趣网络DIN 推荐系统的注意力机制](https://zhuanlan.zhihu.com/p/51623339)  
+
 (4)[YouTube深度推荐系统DNN](https://zhuanlan.zhihu.com/p/52169807) [YouTube深度推荐系统的细节](https://zhuanlan.zhihu.com/p/52504407)  
+
 (5)[Embbeding从word2vec到item2vec](https://zhuanlan.zhihu.com/p/53194407)  
+
 (6)[Wide & Deep Learning](https://blog.csdn.net/google19890102/article/details/78171283)  
 
 # 深度学习
