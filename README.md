@@ -40,7 +40,8 @@
 
 # 面试经验
 
-[为什么要把连续特征离散化](https://www.zhihu.com/question/31989952)
+[为什么要把连续特征离散化](https://www.zhihu.com/question/31989952)  
+[SVM常考细节](https://blog.csdn.net/szlcw1/article/details/52259668)
 
 
 # NLP项目
