@@ -14,8 +14,9 @@
 博客下面的评论回答还是相当不错的，有蛮多经验
 
 ## 损失函数
-[各种损失函数](https://www.jianshu.com/p/477a8c1cb05d)
-
+[各种损失函数](https://www.jianshu.com/p/477a8c1cb05d)  
+## 各种下降方法
+[三种梯度下降法](https://zhuanlan.zhihu.com/p/25765735)
 # 竞赛
 [GBDT、XGBOOST、LightGBM比较](https://marian5211.github.io/2018/03/12/%E3%80%90%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E3%80%91gbdt-xgboost-lightGBM%E6%AF%94%E8%BE%83/)
 
