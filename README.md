@@ -66,5 +66,7 @@
 
 (6)[Wide & Deep Learning](https://blog.csdn.net/google19890102/article/details/78171283)  
 
+(7)[FM算法解析](https://zhuanlan.zhihu.com/p/37963267)
+
 # 深度学习
 (1) [Softmax函数的特点与作用](https://www.zhihu.com/question/23765351)
