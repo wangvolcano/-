@@ -60,7 +60,7 @@
 
 (3)[阿里深度兴趣网络DIN 推荐系统的注意力机制](https://zhuanlan.zhihu.com/p/51623339)  
 
-(4)[YouTube深度推荐系统DNN](https://zhuanlan.zhihu.com/p/52169807) [YouTube深度推荐系统的细节](https://zhuanlan.zhihu.com/p/52504407)  
+(4)[YouTube深度推荐系统DNN](https://zhuanlan.zhihu.com/p/52169807) [YouTube深度推荐系统的细节](https://zhuanlan.zhihu.com/p/52504407) [用深度学习DNN构建推荐系统](https://zhuanlan.zhihu.com/p/25343518) 
 
 (5)[Embbeding从word2vec到item2vec](https://zhuanlan.zhihu.com/p/53194407)  
 
