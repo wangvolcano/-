@@ -15,6 +15,7 @@
 
 ## 损失函数
 [各种损失函数](https://www.jianshu.com/p/477a8c1cb05d)  
+[损失函数对比](https://blog.csdn.net/u010976453/article/details/78488279)
 ## 各种下降方法
 [三种梯度下降法](https://zhuanlan.zhihu.com/p/25765735)
 # 竞赛
