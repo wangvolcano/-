@@ -46,6 +46,7 @@
 [SVM常考细节](https://blog.csdn.net/szlcw1/article/details/52259668)  
 [朴素贝叶斯常见面试题](https://www.cnblogs.com/zhibei/p/9394758.html)  
 [聚类常用面试题](https://blog.csdn.net/cppjava_/article/details/71249209)  
+[朴素贝叶斯算法思路](https://cloud.tencent.com/developer/article/1368310)  
 [L1和L2正则化](http://izhaoyi.top/2017/09/15/l1-l2/)  [代价函数和正则化](https://blog.csdn.net/meyh0x5vDTk48P2/article/details/79752784)  
 [AUC和ROC](https://blog.csdn.net/u013385925/article/details/80385873)
 
